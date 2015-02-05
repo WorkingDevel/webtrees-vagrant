@@ -1,3 +1,7 @@
+# Vagrant development box for [fisharebest/webtrees](https://github.com/fisharebest/webtrees)
+
+Don't use this repo directly. It is meant to work as sub-module in fisharebest/webtrees under `tools/vagrant`. Please checkout fisharebest/webtrees and ran there the VAGRANT.sh.
+
 # Vagrant - Usage
 
 This uses [Vagrant](http://vagrantup.com) and [VirtualBox](http://virtualbox.org) to set up a virtual machine with an installed webserver (either apache2.4 or nginx with PHP5.4).
